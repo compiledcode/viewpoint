@@ -866,6 +866,11 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@digitalbyte/time-picker@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@digitalbyte/time-picker/-/time-picker-0.0.3.tgz#2f6f37db5bc5dc11ff17b8af78ffc3f746f98f51"
+  integrity sha512-/AduF0QnwV2FZtH8onAECEmNerGO+oywG81Tcx/jmOa9fJra4bYmJDeepVLdqoyp+WIomHk0cYmmWauGqTliig==
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"

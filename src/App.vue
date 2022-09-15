@@ -1,13 +1,17 @@
 <template>
-   <HelloWorld msg="Hello Vue 3 in CodeSandbox!" />
+   <HelloWorld msg="CodeSandbox!" />
+   <Norichun msg="cooking for Kent..." />
 </template>
 
 <script>
 import HelloWorldVue from "./components/HelloWorld.vue";
+import Nori from "./components/Nori.vue";
+
 export default {
   name: "App",
   components: {
     HelloWorld: HelloWorldVue,
+    Norichun: Nori,
   },
 };
 </script>
